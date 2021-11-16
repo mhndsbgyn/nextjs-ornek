@@ -1,2 +1,1 @@
-# nextjs-ornek
-Birlikte Nextjs Öğreniyoruz serisinde hazırladığımız örnek taslak
+# nextjs-projesi Appcent şirketi

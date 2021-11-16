@@ -1,6 +1,6 @@
 import Head from 'next/head'
-import Link from 'next/link'
-import Image from 'next/image';
+import Jumbo from '../components/Jumbo';
+
 import Popular from '../components/popular';
 
 function Home({movies}) {
@@ -10,9 +10,8 @@ function Home({movies}) {
 				<title>Create Next App</title>
 				<link rel="icon" href="/favicon.ico"/>
 			</Head>
-
+             <Jumbo/>
 			<Popular movies={movies} />
-
 		</>
 	)
 }
